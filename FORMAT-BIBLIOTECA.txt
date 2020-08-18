@@ -1,0 +1,24 @@
+#	Mensaje para audiovisuales
+#	NO MODIFICAR EL TEXTO SALVO LOS <>
+#	Respetar formato CamelCase: Star Wars (correcto) star wars (incorrecto)
+
+**<TITULO DE SERIE + TEMPORADA>**
+
+*<Sinopsis>*
+
+```css
+  -Especificaciones técnicas
+```
+```markdown
+  -<CALIDAD>
+  -<IDIOMAS>
+  -<TAMAÑO APROX EN GB DE CADA EP>
+  -<CANTIDAD DE EPISODIOS SUBIDOS>
+```
+
+```fix
+ Temporada completa?
+```
+:white_check_mark:
+
+<LINK DE LA CARPETA EN LA NUBE> 
